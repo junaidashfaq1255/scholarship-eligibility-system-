@@ -59,6 +59,12 @@ Possible future enhancements include:
 - Improving accessibility and mobile responsiveness.
 - Storing student applications in a database.
 - Adding an administrative dashboard.
+##WEBSITE.
+- 
+https://fanciful-chebakia-052c24.netlify.app/
+we also make a website for scholarship eligibility'
+
+
 
 Student Project — Scholarship Eligibility System
 
